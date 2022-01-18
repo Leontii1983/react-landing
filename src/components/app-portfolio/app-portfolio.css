@@ -1,0 +1,13 @@
+.portfolio {
+  margin-left: 0 auto;
+  margin-bottom: 50px;
+}
+
+.card-photo {
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+#portfolio {
+  margin-bottom: 10px;
+}

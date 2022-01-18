@@ -1,0 +1,19 @@
+.app-footer {
+  background-color: #343a40;
+  color: #ffffff;
+  height: auto;
+  text-align: center;
+}
+
+.home-css {
+  margin-top: -20px;
+  color: #FFFFFF80;
+}
+
+.link-css {
+  color: #FFFFFF80;
+}
+
+.home-css:hover, .link-css:hover {
+  color: #ffffffc4;
+}
